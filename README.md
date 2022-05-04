@@ -1,5 +1,5 @@
-## bebrainee
+## Bebrainee test tasks in C.
 
-# Test
+# The first task
 
-- test
+- The first task
