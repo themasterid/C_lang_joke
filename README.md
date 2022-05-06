@@ -1,5 +1,11 @@
-## Bebrainee test tasks in C.
+## Bebrainee test tasks on C.
 
-# The first task
+# Tasks
 
-- The first task
+1. 1_user_password.c
+2. 2_matrix.c
+3. 3_cmd_interface.c
+
+# TODO
+
+...
