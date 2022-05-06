@@ -1,3 +1,4 @@
-.bin
+*.bin
+*.out
+.vscode
 git_token.txt
-
