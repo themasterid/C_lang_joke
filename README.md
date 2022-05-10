@@ -9,10 +9,10 @@
 3. 3_cmd_interface.c
 - Print the image output on the screen according to the command line parameters.
 Example:
-./program.bin --help
--a  -- print animal
--h  -- print human
--c  -- print car
+- ./program.bin --help
+- -a  -- print animal
+- -h  -- print human
+- -c  -- print car
 4. In the future... 
 
 ## Author Dmitriy Klepikov
