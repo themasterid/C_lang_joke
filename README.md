@@ -7,8 +7,12 @@
 2. 2_matrix.c
 - The second task. The Matrix has you... Fill the terminal screen with random falling numbers from above, as in The Matrix (we can use the standard color).
 3. 3_cmd_interface.c
+- Print the image output on the screen according to the command line parameters.
+Example:
+./program.bin --help
+-a  -- print animal
+-h  -- print human
+-c  -- print car
 4. In the future... 
 
-# TODO
-
-...
+## Author Dmitriy Klepikov
