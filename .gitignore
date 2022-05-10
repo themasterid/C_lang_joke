@@ -1,4 +1,5 @@
 *.bin
 *.out
 .vscode
+.project
 git_token.txt

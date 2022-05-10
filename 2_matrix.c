@@ -1,11 +1,21 @@
-/*
-The second task. The Matrix has you...
-Fill the terminal screen with random falling numbers from above,
-as in The Matrix (we can use the standard color).
- */
 #include <stdio.h>
-
-int main (void) {
-    printf("go... 7.05.2022\n");
+#include <stdlib.h>
+#include <unistd.h>
+ 
+int main() {
+    int i, r, j;
+    unsigned int seed = 300;
+ 
+    srand(seed);
+ 
+    while (j <= 100000000000) {
+        j++;
+        r = 0 + 10 * rand() / 1000000000;
+        printf("%i", r);
+        if (i % 79 == 0) {
+            printf("\n");
+            usleep(1000000);
+        }
+    }
     return 0;
 }
