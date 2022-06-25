@@ -1,4 +1,4 @@
-## Bebrainee test tasks on C.
+## The tasks on C language just fun.
 
 # Tasks
 
